@@ -4,7 +4,7 @@ A lightweight, animated weather web app built with plain HTML, CSS, and JavaScri
 
 ## Project URL
 
-https://xterminator101.github.io/Weather-Dashboard/
+https://priyavratadeb.github.io/Weather-Dashboard/
 
 ## What the project does
 
